@@ -1,0 +1,20 @@
+p {
+  font-size: 25px;
+}
+ul {
+  font-size: 23px;
+}
+h3 {
+  font-size: 30px;
+}
+h1 {
+  font-size: 35px;
+}
+body {
+  background-image: url("https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  backdrop-filter: blur(10px);
+  backdrop-filter: brightness(45%);
+  color: white;
+}
